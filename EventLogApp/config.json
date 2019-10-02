@@ -1,0 +1,39 @@
+﻿{
+  "ConnectionString": "Data Source=MSSQLSERVER;Server=srv-1cdata;Database=log1c;Password=1ccthdth;User ID=sa;",
+  "DBType": "MS SQL Server",
+  "RepeatTime": 60,
+  "ESIndexName": "event-log",
+  "ESUseSynonymsForFieldsNames": false,
+  "ESFieldSynonyms": {
+    "ServerName": "Сервер1С",
+    "DatabaseName": "ИнформационнаяБаза",
+    "RowID": "НомерСтроки",
+    "Severity": "УровеньСобытия",
+    "DateTime": "ДатаВремя",
+    "ConnectID": "НомерСоединения",
+    "DataType": "ТипДанных",
+    "SessionNumber": "НомерСессии",
+    "DataStructure": "СтруктураДанных",
+    "DataString": "ПредставлениеДанных",
+    "Comment": "Комментарий",
+    "SessionDataSplitCode": "Разделитель",
+    "EventType": "ТипСобытия",
+    "Metadata": "Метаданные",
+    "Computer": "Компьютер",
+    "PrimaryPort": "ОсновнойПорт",
+    "Server": "СерверПриложений",
+    "SecondaryPort": "ВторичныйПорт",
+    "Application": "Приложение",
+    "UserName": "ИмяПользователя"
+  },
+  "Infobases": [
+    {
+      "ESServerName": "",
+      "DatabaseID": "221faa36-9bda-4aa5-a5d6-a425e10d2955",
+      "DatabaseName": "un_acc30",
+      "DatabaseCatalog": "e:\\dev\\\1cLog\\1Cv8Log\\",
+      "StartDate": "",
+      "Found": false
+    }
+  ]
+}
