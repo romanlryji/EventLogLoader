@@ -1,5 +1,5 @@
 ﻿{
-  "ConnectionString": "Data Source=MSSQLSERVER;Server=srv-1cdata;Database=log1c;Password=1ccthdth;User ID=sa;",
+  "ConnectionString": "***",
   "DBType": "MS SQL Server",
   "RepeatTime": 60,
   "ESIndexName": "event-log",
